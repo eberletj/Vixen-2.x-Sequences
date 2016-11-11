@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Program>
+  <Time>60000</Time>
+  <EventPeriodInMilliseconds>100</EventPeriodInMilliseconds>
+  <MinimumLevel>0</MinimumLevel>
+  <MaximumLevel>255</MaximumLevel>
+  <AudioDevice>-1</AudioDevice>
+  <AudioVolume>0</AudioVolume>
+  <LastSort>-1</LastSort>
+  <Channels />
+  <PlugInData />
+  <SortOrders />
+  <EventValues>
+  </EventValues>
+  <LoadableData />
+  <EngineType>Standard</EngineType>
+  <Extensions>
+    <Extension type=".vix" />
+  </Extensions>
+  <WindowSize>1292,950</WindowSize>
+  <ChannelWidth>196</ChannelWidth>
+</Program>
