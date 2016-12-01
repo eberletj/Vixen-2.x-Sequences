@@ -1365,4 +1365,6 @@
   <Extensions>
     <Extension type=".vix" />
   </Extensions>
+  <WindowSize>808,605</WindowSize>
+  <ChannelWidth>149</ChannelWidth>
 </Program>
